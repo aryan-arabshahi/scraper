@@ -1,0 +1,3 @@
+
+
+MAX_ALOWED_DEPTH = 10
